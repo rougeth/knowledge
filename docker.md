@@ -1,4 +1,4 @@
-#### Stop / remove all Docker container
+# Stop / remove all Docker container
 
 ```bash
 $ docker stop $(docker ps -a -q)
