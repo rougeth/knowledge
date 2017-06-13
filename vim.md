@@ -1,4 +1,4 @@
-# Switching caseMake a Remove all local git branches
+# Switching case
 
 ```
 # Uppercase
