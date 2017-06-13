@@ -3,6 +3,5 @@
 * [Introduction](README.md)
 * [Docker](/docker.md)
 * [Git](/git.md)
-
-
+* [Vim](vim.md)
 
